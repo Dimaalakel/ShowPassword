@@ -1,6 +1,4 @@
- Live Demo: <a href='https://show-password-seven.vercel.app/'>Show Password</a>
-
-👉 Live Demo: https://show-password-seven.vercel.app/
+👉 Live Demo: <a href='https://show-password-seven.vercel.app/'>Show Password</a>
 
 Build with:
 <h4> » HTML5 </h4>
